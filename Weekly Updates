@@ -1,3 +1,12 @@
 The past week we have been working to create the PCB and get it on order, as well as simulate the total system (both subsystems combined)
 to validate the overall system performance. We are waiting for the PCB to come in from being fabricated and will begin testing the 
 system in its hardware form for complete validation of the entire system and checking those against the FSRs.
+
+Moving into this week, we will be working on testing the system on the current prototyping boards to validate performance while we wait 
+the PCBs to come in. The breakdown of work based on a personal basis is shown below:
+
+Zach - Simulated combined system, designed PCB
+Suat - Assisted in PCB design, ordered components
+Yousef - Designed PCB
+
+All 3 of us will be working to test the combined system in lab in the coming week.
